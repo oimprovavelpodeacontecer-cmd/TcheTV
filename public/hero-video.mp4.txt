@@ -1,0 +1,7 @@
+ESTE É UM ARQUIVO PLACEHOLDER.
+
+Para que a seção HERO funcione corretamente, você deve substituir este arquivo por um arquivo de vídeo MP4 real (ou GIF) chamado 'hero-video.mp4' e colocá-lo diretamente na pasta 'public' do projeto.
+
+O código está configurado para usar o vídeo como fundo da seção principal.
+
+Se você não tiver um vídeo, pode remover a tag <video> do App.jsx e usar uma imagem de fundo via CSS.
