@@ -256,7 +256,7 @@ function App() {
                 onClick={() => window.open(getWhatsAppLink('assinatura'), '_blank')}
               >
                 <DollarSign className="mr-3 h-6 w-6" />
-                Assinar Agora por R$ {PRICE_MONTHLY}
+                Assine Agora R$ {PRICE_MONTHLY}
               </Button>
             </div>
           </Card>
