@@ -310,7 +310,7 @@ function App() {
               <p className="text-xl text-white/80">Canais Disponíveis</p>
             </div>
             <div className="text-center p-6 border-b-4 border-blue-900">
-              <p className="text-5xl font-extrabold text-white">98%</p>
+              <p className="text-5xl font-extrabold text-white">100%</p>
               <p className="text-xl text-white/80">Satisfação Comprovada</p>
             </div>
           </div>
